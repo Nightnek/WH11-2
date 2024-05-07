@@ -13,9 +13,8 @@ Quote
 
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
-````
 ![image](https://github.com/Nightnek/WH11-2/assets/127677631/39524b72-ede3-4d6c-80d6-c566166ebff5)
-````
+
 
 ## Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
